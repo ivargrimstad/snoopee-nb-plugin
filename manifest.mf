@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: eu.agilejava.snoopee
+OpenIDE-Module-Layer: eu/agilejava/snoopee/layer.xml
+OpenIDE-Module-Localizing-Bundle: eu/agilejava/snoopee/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
